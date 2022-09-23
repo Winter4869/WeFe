@@ -5,7 +5,7 @@ lmdb==0.98
 numba==0.50.1
 numpy~=1.19.2
 requests==2.24.0
-protobuf==3.12.2
+protobuf==3.18.3
 pycryptodome==3.4.7
 pycryptodomex==3.9.8
 PyMySQL==0.10.0
